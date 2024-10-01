@@ -1,0 +1,21 @@
+[ {
+  "idProducto" : 1,
+  "nombre" : "Chocolate",
+  "cantidad" : 100,
+  "estado" : "Existencia"
+}, {
+  "idProducto" : 2,
+  "nombre" : "Gelatinas",
+  "cantidad" : 100,
+  "estado" : "Existencia"
+}, {
+  "idProducto" : 3,
+  "nombre" : "Pastel",
+  "cantidad" : 100,
+  "estado" : "Existencia"
+}, {
+  "idProducto" : 4,
+  "nombre" : "Dulces",
+  "cantidad" : 100,
+  "estado" : "Existencia"
+} ]

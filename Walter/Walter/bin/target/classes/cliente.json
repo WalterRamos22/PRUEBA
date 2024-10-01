@@ -1,0 +1,123 @@
+[ {
+  "nit" : "106748793",
+  "nombre" : "Juan",
+  "direccion" : "Calle 1",
+  "telefono" : "123456789",
+  "pedidos" : [ {
+    "idPedido" : 1,
+    "fecha" : 1704067200000,
+    "estado" : "Entregado",
+    "nit" : null,
+    "productos" : [ {
+      "idProducto" : 2,
+      "nombre" : "Gelatinas",
+      "cantidad" : 5,
+      "estado" : "Empacado"
+    } ]
+  } ]
+}, {
+  "nit" : "1234",
+  "nombre" : "walter",
+  "direccion" : "www",
+  "telefono" : null,
+  "pedidos" : [ {
+    "idPedido" : 39,
+    "fecha" : 1727030908465,
+    "estado" : "Despachado",
+    "nit" : "1234",
+    "productos" : [ {
+      "idProducto" : 1,
+      "nombre" : "Pene de hule",
+      "cantidad" : 5,
+      "estado" : "Existencia"
+    }, {
+      "idProducto" : 1,
+      "nombre" : "Pene de hule",
+      "cantidad" : 10,
+      "estado" : "Existencia"
+    } ]
+  } ]
+}, {
+  "nit" : "1234",
+  "nombre" : "ww",
+  "direccion" : "ww",
+  "telefono" : null,
+  "pedidos" : [ {
+    "idPedido" : 74,
+    "fecha" : 1727030973175,
+    "estado" : "Despachado",
+    "nit" : "1234",
+    "productos" : [ {
+      "idProducto" : 1,
+      "nombre" : "Pene de hule",
+      "cantidad" : 85,
+      "estado" : "Agotado"
+    }, {
+      "idProducto" : 2,
+      "nombre" : "Gelatinas",
+      "cantidad" : 50,
+      "estado" : "Existencia"
+    } ]
+  } ]
+}, {
+  "nit" : "1111",
+  "nombre" : "ch",
+  "direccion" : "asd",
+  "telefono" : null,
+  "pedidos" : [ {
+    "idPedido" : 4,
+    "fecha" : 1727031031983,
+    "estado" : "Despachado",
+    "nit" : "1111",
+    "productos" : [ {
+      "idProducto" : 4,
+      "nombre" : "Producto 4",
+      "cantidad" : 50,
+      "estado" : "Existencia"
+    }, {
+      "idProducto" : 3,
+      "nombre" : "Pastel",
+      "cantidad" : 25,
+      "estado" : "Existencia"
+    } ]
+  } ]
+}, {
+  "nit" : "1111",
+  "nombre" : "a",
+  "direccion" : "a",
+  "telefono" : null,
+  "pedidos" : [ {
+    "idPedido" : 65,
+    "fecha" : 1727031082994,
+    "estado" : "Despachado",
+    "nit" : "1111",
+    "productos" : [ {
+      "idProducto" : 4,
+      "nombre" : "Producto 4",
+      "cantidad" : 50,
+      "estado" : "Agotado"
+    }, {
+      "idProducto" : 3,
+      "nombre" : "Pastel",
+      "cantidad" : 75,
+      "estado" : "Agotado"
+    } ]
+  } ]
+}, {
+  "nit" : "1111",
+  "nombre" : "adsfdf",
+  "direccion" : "ad",
+  "telefono" : null,
+  "pedidos" : [ {
+    "idPedido" : 11,
+    "fecha" : 1727031159132,
+    "estado" : "Despachado",
+    "nit" : "1111",
+    "productos" : [ {
+      "idProducto" : 2,
+      "nombre" : "Gelatinas",
+      "cantidad" : 50,
+      "estado" : "Agotado"
+    } ]
+  } ]
+} ]

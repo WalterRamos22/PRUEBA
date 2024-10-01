@@ -1,0 +1,21 @@
+[ {
+  "idProducto" : 1,
+  "nombre" : "Pene de hule",
+  "cantidad" : 0,
+  "estado" : "Agotado"
+}, {
+  "idProducto" : 2,
+  "nombre" : "Gelatinas",
+  "cantidad" : 0,
+  "estado" : "Agotado"
+}, {
+  "idProducto" : 3,
+  "nombre" : "Pastel",
+  "cantidad" : 0,
+  "estado" : "Agotado"
+}, {
+  "idProducto" : 4,
+  "nombre" : "Producto 4",
+  "cantidad" : 0,
+  "estado" : "Agotado"
+} ]

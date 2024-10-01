@@ -1,0 +1,24 @@
+[
+  {
+    "nit": "106748793",
+    "nombre": "Juan mecanico",
+    "direccion": "Calle 1",
+    "telefono": "123456789",
+    "pedidos": [
+      {
+        "idPedido": 1,
+        "fecha": 1704067200000,
+        "estado": "Entregado",
+        "nit": null,
+        "productos": [
+          {
+            "idProducto": 2,
+            "nombre": "Gelatinas",
+            "cantidad": 5,
+            "estado": "Empacado"
+          }
+        ]
+      }
+    ]
+  }
+]
